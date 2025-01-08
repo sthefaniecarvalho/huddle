@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/sthefaniecarvalho/huddle
+- Live Site URL: https://sthefaniecarvalho.github.io/huddle
 
 ## My process
 
@@ -28,4 +28,3 @@ Users should be able to:
 
 - Website - [Sthefanie Carvalho](https://github.com/sthefaniecarvalho)
 - Frontend Mentor - https://www.frontendmentor.io/profile/sthe116
-- Twitter - [@sthe116](https://www.twitter.com/yourusername)
